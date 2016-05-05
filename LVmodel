@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# this in objector oriented implementation of a Lotka-Volterra model. The code has been inherited from my good friend Damian Sowinski, not sure if he wrote it himself, repurposed it from elsewhere etc, so the history is a little shady. I've updated and commented it a bunch as of May 2016
+# this in objector oriented implementation of a Lotka-Volterra model. The code was at one time inherited from my good friend Damian Sowinski, not sure if he wrote it himself, repurposed it from elsewhere etc, so the history is a little shady. I've updated and commented it a bunch as of May 2016
 
 import matplotlib.pylab as plt
 
